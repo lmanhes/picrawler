@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 robot-hat = {git = "https://github.com/lmanhes/robot-hat.git"}
+pyaudio = "0.2.11"
 
 
 [build-system]
