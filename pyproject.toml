@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-robot-hat = {git = "https://github.com/lmanhes/robot-hat.git"}
+robot-hat = { git = "https://github.com/lmanhes/robot-hat", branch = "v2.0"}
 pyaudio = "0.2.11"
 
 
